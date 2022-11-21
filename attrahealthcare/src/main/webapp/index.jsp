@@ -154,7 +154,7 @@ opacity:.5;
 
    background-color: black;
 
-   color: white;
+   color: orange;
 
    text-align: center;
 
