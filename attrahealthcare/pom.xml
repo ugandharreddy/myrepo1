@@ -99,6 +99,7 @@
     <version>4.3.7.RELEASE</version>
 </dependency>
 
+<!-- build configration java -->
 </dependencies>
   <build>
     <finalName>AttraHealthCare</finalName>
