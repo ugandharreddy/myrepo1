@@ -110,7 +110,7 @@
       <artifactId>mysql-connector-java</artifactId>
       <version>8.0.11</version>
     </dependency>
-
+    <!-- Java test -->
     <!-- Java Mail -->
     <dependency>
       <groupId>javax.mail</groupId>
